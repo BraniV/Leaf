@@ -2,7 +2,7 @@
 
 Companion code for
 
-> V. Lakmini and B. Vidakovic. *LEAF: Calibrated and Robust Wavelet Estimation of the Hurst Exponent.* Department of Statistics, Texas A&M University.
+> V. Lakmini and B. Vidakovic. *Calibrated Log-Energy with Adaptive Floor: Bias-Corrected and Robust Wavelet Estimation of the Hurst Exponent.* Department of Statistics, Texas A&M University.
 
 The package estimates the Hurst exponent $H$ of fractional Brownian motion (fBm) from wavelet logscale diagrams. It combines two ideas.
 
